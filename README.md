@@ -88,7 +88,7 @@ txtLog.addMouseListener(new MouseAdapter() {
 
 
 #### 3. Jenis Manusia menekan Terbang: dialog informasi
-<img width="684" height="200" alt="Manusia Terbang" src="https://github.com/user-attachments/assets/c7f4c153-1db5-4ae3-b6b3-176c2b55ac36" />
+<img width="684" height="150" alt="Manusia Terbang" src="https://github.com/user-attachments/assets/c7f4c153-1db5-4ae3-b6b3-176c2b55ac36" />
 
 
 #### 4. Nama kosong: dialog peringatan
