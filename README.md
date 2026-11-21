@@ -79,15 +79,15 @@ txtLog.addMouseListener(new MouseAdapter() {
 
 ## Screenshot
 
-## 1. Tampilan awal
+# 1. Tampilan awal
 <img width="250" height="241" alt="Tampilan Awal" src="https://github.com/user-attachments/assets/8e9d2602-1685-43c9-b189-779ec0ecb74e" />
 
 
-## 2. Jenis Hewan: tombol Berjalan, Terbang, dan Berenang
+# 2. Jenis Hewan: tombol Berjalan, Terbang, dan Berenang
 <img width="250" height="241" alt="Hewan" src="https://github.com/user-attachments/assets/2668cc9c-881a-4125-9bc0-4cb3c40c6805" />
 
 
-## 3. Jenis Manusia menekan Terbang: dialog informasi
+# 3. Jenis Manusia menekan Terbang: dialog informasi
 <img width="684" height="200" alt="Manusia Terbang" src="https://github.com/user-attachments/assets/c7f4c153-1db5-4ae3-b6b3-176c2b55ac36" />
 
 
